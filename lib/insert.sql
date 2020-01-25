@@ -1,8 +1,8 @@
-INSERT INTO Series(title, author_id, sub-genre_id) VALUES
+INSERT INTO Series(title, author_id, subgenre_id) VALUES
 ("Lord of the Rings", 1, 1),
 ("The Space Trilogy", 2, 2);
 
-INSERT INTO Sub-Genres(name) VALUES
+INSERT INTO SubGenres(name) VALUES
 ("High Fantasy"),
 ("Sci-Fi Fantasy");
 
