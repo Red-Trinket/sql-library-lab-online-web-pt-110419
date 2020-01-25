@@ -1,0 +1,1 @@
+INSERT INTO Series(title, author_id, sub-genre_id) VALUES()
